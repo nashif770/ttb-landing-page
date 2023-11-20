@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "username": "user1",
+      "caption": "Beautiful sunset at the beach. 🌅 #Nature",
+      "image_url": "https://i.ibb.co/xFwpZkm/3.jpg",
+      "likes": 120,
+      "comments": [
+        {
+          "username": "user2",
+          "text": "Amazing shot!"
+        },
+        {
+          "username": "user3",
+          "text": "Love it! 😍"
+        }
+      ],
+      "timestamp": "2023-01-15T12:30:00Z"
+    },
+    {
+      "id": 2,
+      "username": "user4",
+      "caption": "Exploring the city streets. #CityLife",
+      "image_url": "https://i.ibb.co/6ZVQLXS/1.jpg",
+      "likes": 85,
+      "comments": [
+        {
+          "username": "user5",
+          "text": "City vibes! 🏙️"
+        },
+        {
+          "username": "user6",
+          "text": "Wish I could be there!"
+        }
+      ],
+      "timestamp": "2023-02-03T09:45:00Z"
+    },
+    {
+      "id": 3,
+      "username": "user7",
+      "caption": "Cute puppy alert! 🐾 #PuppyLove",
+      "image_url": "https://i.ibb.co/v11tNPc/4.jpg",
+      "likes": 200,
+      "comments": [
+        {
+          "username": "user8",
+          "text": "I want one!"
+        },
+        {
+          "username": "user9",
+          "text": "So adorable! 😊"
+        }
+      ],
+      "timestamp": "2023-02-18T15:20:00Z"
+    }
+  ]
+  
